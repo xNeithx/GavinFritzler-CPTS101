@@ -1,1 +1,3 @@
 My information
+Name: Gavin
+Student ID: 12345
